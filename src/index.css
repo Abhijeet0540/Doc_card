@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+  font-family: "Playfair Display", serif;
+}
+
+::selection{
+  color: rgb(232 , 145 , 45);
+  cursor: pointer;
+}
